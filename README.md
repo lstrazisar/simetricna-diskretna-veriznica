@@ -1,0 +1,1 @@
+# simetricna-diskretna-veriznica
